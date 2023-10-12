@@ -13,7 +13,7 @@ keywords = [
 ]
 
 install_requires = [
-    "scikit-learn~=1.0",
+    "scikit-learn>=1.2,<2",
 ]
 
 with open("README.md", "r") as fh:
